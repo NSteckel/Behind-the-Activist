@@ -1,0 +1,61 @@
+h1 {
+    font-family: "Avenir Next", Calibri, Verdana, sans-serif;
+    font-size: 250%;
+    text-align: center;
+    /*margin-left: 1.5%;
+    /*color: black;*/
+}
+
+h3 {
+    margin-left: 1.5%;
+}
+h4 {
+    margin-left: 1.5%;
+}
+
+body {   
+    font-family: "Avenir Next", Calibri, Verdana, sans-serif;
+    font-size: 115%;
+}
+
+.container1 {
+    display: flex;
+}
+
+.container2 {
+    display: flex;
+}
+
+.container3 {
+    display: flex;
+}
+
+p {
+    flex: 1;
+    margin-left: 2.5%;
+    margin-right: 2.5%
+}
+iframe {
+    margin-left: 2.5%;
+    margin-right: 2%;
+    margin-top: 2.5%
+    flex: 0.85%;
+
+}
+
+
+.timeIntro {
+    /*color: whitesmoke;*/
+    text-align: center;
+    font-family: "Avenir Next", Calibri, Verdana, sans-serif;
+    font-size: 115%;
+    /* background-color: olivedrab; /* SOMETHING LIKE THIS COULD 
+    BE USED TO ADD A TEXT BACKGROUND, I JUST THINK IT LOOKS BAD */
+}
+
+.outro {
+    /*color: whitesmoke;*/
+    text-align: center;
+    font-family: "Avenir Next", Calibri, Verdana, sans-serif;
+    font-size: 100%;
+}
