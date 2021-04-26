@@ -1,0 +1,46 @@
+h1 {
+    font-family: "Avenir Next", Calibri, Verdana, sans-serif;
+    font-size: 250%;
+    text-align: center;
+   
+}
+
+body {
+    background-color: rgb(220, 223, 213);
+    
+    text-align: center;     /* <<---- THIS MIGHT NOT STAY */
+    font-family: "Avenir Next", Calibri, Verdana, sans-serif;
+    font-size: 115%;
+}
+
+div {
+    border: solid rgb(111, 112, 107);
+    /*border-spacing: 20px, 10px;*/
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+p {
+    margin: 2%;
+}
+
+a {
+    margin-top: 2%;
+}
+
+.extraInfo {
+   
+    text-align: center;
+    font-family: "Avenir Next", Calibri, Verdana, sans-serif;
+    font-size: 115%;
+    /* background-color: olivedrab; /* SOMETHING LIKE THIS COULD 
+    BE USED TO ADD A TEXT BACKGROUND, I JUST THINK IT LOOKS BAD */
+}
+
+.outro {
+    
+    text-align: center;
+    font-family: "Avenir Next", Calibri, Verdana, sans-serif;
+    font-size: 100%;
+}
+
