@@ -9,7 +9,7 @@
     Updated Contact page (html)
     Updated About page (html)
     Added NavBarPics image folder in images folder
-    Updated each country's pic folder
+    Added to HomePics folder
 
 
     ADD BASE MOBILE VERSION!!!
