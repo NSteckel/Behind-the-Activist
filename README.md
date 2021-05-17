@@ -1,4 +1,5 @@
 # Activist-Project
+# (Really just notes for myself about what needs to be added)
 <!--
     PAGE(S) NEEDS TO BE UPDATED!! (Last changed Thurs, May 13)
     What needs to be changed: Nate's Notes:
