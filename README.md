@@ -1,6 +1,6 @@
 # Activist-Project
 <!--
-    PAGE NEEDS TO BE UPDATED!! (Last changed Thurs, May 13)
+    PAGE(S) NEEDS TO BE UPDATED!! (Last changed Thurs, May 13)
     What needs to be changed: Nate's Notes:
     - Change background pics to have banner separate from yellow 
     - Resize and move About ->> Donate links to rest on banner
