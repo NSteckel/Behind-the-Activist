@@ -8,6 +8,7 @@
 
     Updated Contact page (html)
     Updated About page (html)
+    Added NavBarPics image folder in images folder
 
 
     ADD BASE MOBILE VERSION!!!
