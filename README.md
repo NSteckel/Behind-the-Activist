@@ -10,9 +10,12 @@ Activities so far:
     Finished updating Donate and Credit pages
 
     Updated Contact page (html)
-    Updated About page (html)
-    Added NavBarPics image folder in images folder
+    Updating About page (html)
+    
+    Added NavBarPics image folder in local images folder, added pics to it. (Need to add this to github images folder)
     Added to HomePics folder
+    
+    
 
 
     > > > > ADD BASE MOBILE VERSION!!! < < < <
