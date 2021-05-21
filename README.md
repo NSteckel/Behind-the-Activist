@@ -12,11 +12,13 @@ Activities so far:
     Updated Contact page (html)
     Updating About page (html)
     
+    - - -
     Added NavBarPics image folder in local images folder, added pics to it. (Need to add this to github images folder)
     Added to HomePics folder
     
+    NEED TO UPDATE ALL GITHUB IMAGE FOLDERS!
+    - - -
     
-
 
     > > > > ADD BASE MOBILE VERSION!!! < < < <
 
