@@ -7,7 +7,7 @@ Activities so far:
     - Resize and move About ->> Donate links to rest on banner
     - Reformat pics to rest in top left corner of page where the tape is.
 
-    Finished updating Donate Page (html & css, DONE)
+    Finished updating Donate and Credit pages
 
     Updated Contact page (html)
     Updated About page (html)
@@ -15,8 +15,9 @@ Activities so far:
     Added to HomePics folder
 
 
-    ADD BASE MOBILE VERSION!!!
+    > > > > ADD BASE MOBILE VERSION!!! < < < <
 
 
-DONE WITH:
+Content Completed (needs little style?)
 - donate 
+- credits
