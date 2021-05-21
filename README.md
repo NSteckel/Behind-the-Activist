@@ -7,7 +7,7 @@
     - Resize and move About ->> Donate links to rest on banner
     - Reformat pics to rest in top left corner of page where the tape is.
 
-    Finished updating Donate Page (html)
+    Finished updating Donate Page (html & css, DONE)
 
     Updated Contact page (html)
     Updated About page (html)
@@ -17,3 +17,6 @@
 
     ADD BASE MOBILE VERSION!!!
 -->
+
+DONE WITH:
+- donate 
