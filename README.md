@@ -23,6 +23,9 @@ Activities so far:
     > > > > ADD BASE MOBILE VERSION!!! < < < <
 
 
-Content Completed (needs little style?)
-- donate 
-- credits
+Nav bar pages: about, contact, credits & donate are all completed, they need minimal universal styling changes 
+Area Pages: All need universal styling changes
+    In terms of content:
+        - South Korea is done (Thurs May 27th 2021)
+        - 
+
