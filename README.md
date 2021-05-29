@@ -27,5 +27,5 @@ Nav bar pages: about, contact, credits & donate are all completed, they need min
 Area Pages: All need universal styling changes
     In terms of content:
         - South Korea is done (Thurs May 27th 2021)
-        - 
+        - Okinawa is done (Sat May 29th 2021)
 
