@@ -25,7 +25,8 @@ Activities so far:
 
 Nav bar pages: about, contact, credits & donate are all completed, they need minimal universal styling changes 
 Area Pages: All need universal styling changes
-    In terms of content:
+    In terms of content completion:
         - South Korea is done (Thurs May 27th 2021)
         - Okinawa is done (Sat May 29th 2021)
+        - Guåhan is done (Sat May 29th 2021)
 
