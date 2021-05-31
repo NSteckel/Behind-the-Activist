@@ -29,4 +29,5 @@ Area Pages: All need universal styling changes
         - South Korea is done (Thurs May 27th 2021)
         - Okinawa is done (Sat May 29th 2021)
         - Guåhan is done (Sat May 29th 2021)
+        - The Philippines are done (Sun May 30th 2021)
 
