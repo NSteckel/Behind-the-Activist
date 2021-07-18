@@ -1,0 +1,44 @@
+head {
+    
+    font-family: "Avenir Next", Calibri, Verdana, sans-serif;
+ 
+    /*font-size: 110%;*/
+}
+body {
+
+    font-family: "Avenir Next", Calibri, Verdana, sans-serif;
+    /*background-image: url("images/homePics/newShell.png");
+    background-size: 100%;*/
+    /*font-size: 110%;*/
+}
+p {
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+.responsive {
+    max-width: 75%;
+    height: auto;
+    margin-left: 5%;
+    margin-right: 5%;
+    
+}
+
+.toppic {
+    max-width: 35%;
+    height: auto;
+    margin-top: .5%;
+    
+}
+
+.backer {
+    margin-bottom: 2.5%;
+
+}
+.column {
+    float: right;
+    padding: 0.5%;
+}
+.centerpar {
+    text-align: center;
+}

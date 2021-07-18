@@ -1,0 +1,36 @@
+head {
+    
+    font-family: "Avenir Next", Calibri, Verdana, sans-serif;
+    font-size: 110%;
+}
+body {
+   
+    font-family: "Avenir Next", Calibri, Verdana, sans-serif;
+    font-size: 110%;
+}
+h1 {
+    font-family: "Avenir Next", Calibri, Verdana, sans-serif;
+    text-align: center;
+}
+p {
+    /*margin-left: 20%;
+    margin-right: 20%;*/
+    font-family: "Avenir Next", Calibri, Verdana, sans-serif;
+    text-align: center;
+}
+
+.spacers {
+    margin-right: 17%;
+    margin-left: 17%;
+}
+
+.headline {
+    margin-top: 1%;
+}
+
+
+
+.column {
+    float: right;
+    padding: 0.5%;
+}
