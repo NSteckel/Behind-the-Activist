@@ -1,4 +1,5 @@
 # Activist-Project
+# (Project can be found at: http://behindtheactivist.org)
 # (Really just notes for myself about what needs to be added)
 Activities so far:
     PAGE(S) NEEDS TO BE UPDATED!! (Last changed Sunday, July 18th 2021)
